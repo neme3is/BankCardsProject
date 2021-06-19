@@ -1,9 +1,9 @@
-package console;
+package com.bankcards.console;
 
-import domain.Cardholder;
-import domain.Creditcard;
-import service.CardholderService;
-import service.CreditcardService;
+import com.bankcards.domain.Cardholder;
+import com.bankcards.domain.Creditcard;
+import com.bankcards.service.CardholderService;
+import com.bankcards.service.CreditcardService;
 
 import java.sql.Date;
 import java.sql.SQLException;

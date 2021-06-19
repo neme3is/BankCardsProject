@@ -1,4 +1,4 @@
-package bl;
+package com.bankcards.bl;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

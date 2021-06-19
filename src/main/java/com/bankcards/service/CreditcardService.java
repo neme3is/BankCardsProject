@@ -1,8 +1,8 @@
-package service;
+package com.bankcards.service;
 
-import bl.Util;
-import dao.CreditcardDao;
-import domain.Creditcard;
+import com.bankcards.bl.Util;
+import com.bankcards.dao.CreditcardDao;
+import com.bankcards.domain.Creditcard;
 
 import java.sql.*;
 import java.util.ArrayList;

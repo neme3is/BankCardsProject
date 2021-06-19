@@ -1,4 +1,4 @@
-package domain;
+package com.bankcards.domain;
 
 import java.sql.Date;
 import java.util.Objects;
